@@ -1,4 +1,4 @@
-Image Classificaation using SVM is very efficient way of modelling and very rarely used algorithm for image processing and modelling..!!!!
+Image Classification using SVM is a very efficient way of modelling and very rarely used algorithm for image processing and modelling!
 
 Tips for using SVM for image classification
 
